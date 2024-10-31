@@ -1,1 +1,3 @@
 # ShopperSTOP
+LIVE PREVIEW @ https://yeshwanth2910.github.io/ShopperSTOP/
+IMAGES ARE NOT LOADING PROPERLY ...
